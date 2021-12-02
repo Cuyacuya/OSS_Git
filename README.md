@@ -1,7 +1,7 @@
 # OSS_Git
 OSS_GitTest
 
-Project main: CHD
+Project writer: CHD
 
 DAY : 02/12/2021
 
